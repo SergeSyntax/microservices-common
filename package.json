@@ -1,5 +1,5 @@
 {
-  "name": "@assign-management/common",
+  "name": "@sergway/common",
   "version": "1.0.13",
   "description": "",
   "main": "./build/index.js",
